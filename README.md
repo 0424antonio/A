@@ -27,10 +27,7 @@
         body {
             margin: 0;
             padding: 0;
-            font-family: 'SF Mono', 'Monaco', 'Consolas', monospace;
-            background-color: var(--bg-color);
-            color: var(--text-main);
-            overflow: hidden;
+            font-family: 'SF Mono', 'Monahidden;
             height: 100vh;
             display: flex;
             flex-direction: column;
@@ -1419,3 +1416,33 @@
 </script>
 </body>
 </html>
+
+---
+
+## Instrucciones para el proyecto Expo (Redragon Optimizer) ✅
+
+He añadido un proyecto Expo con `App.js` basado en el código que proporcionaste. Para ejecutar:
+
+1. Ir a la carpeta del proyecto:
+
+```bash
+cd /workspaces/A
+```
+
+2. Instalar dependencias:
+
+```bash
+npm install
+```
+
+3. Iniciar el servidor de desarrollo:
+
+```bash
+npm start
+# o
+npx expo start
+```
+
+4. Abrir en emulador o en la app Expo Go (escanea el QR).
+
+Si quieres, puedo instalar las dependencias ahora y/o iniciar el servidor de desarrollo por ti. ¡Dime qué prefieres!
